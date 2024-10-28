@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection ROS projects and resources utilizing or simplifying the application of foundation models in robotics.
+A collection of ROS projects and resources utilizing or simplifying the application of foundation models in robotics.
 
 # Frameworks
 
