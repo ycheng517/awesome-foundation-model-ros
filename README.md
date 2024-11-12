@@ -72,6 +72,7 @@ Awesome lists of foundation models that can be used in robotics.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Models.
 - [Awesome VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures) - A curated list of famous vision language models and their architectures.
 - [Awesome Robotics Foundation Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - A survey of foundation models in robotics.
+- [Awesome Foundation and Multimodal Models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - Curated list of top foundation and multimodal models
 
 Adjacent communities to connect with:
 
