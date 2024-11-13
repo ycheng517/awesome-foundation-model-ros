@@ -34,7 +34,6 @@ ROS projects that wraps foundation models with a ROS interface.
 - [isaac_ros_segment_anything](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation/tree/main/isaac_ros_segment_anything) - ROS 2 wrapper for Segment Anything.
 - [isaac_ros_foundationpose](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation/tree/main/isaac_ros_foundationpose) - ROS 2 wrapper for FoundationPose.
 - [isaac_ros_dnn_stereo_depth](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) - ROS 2 wrapper for Efficient Semi-Supervised stereo disparity (ESS).
-- [isaac_ros_dnn_stereo_depth](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth) - ROS 2 wrapper for Efficient Semi-Supervised stereo disparity (ESS).
 - [ros2_nanollm](https://github.com/NVIDIA-AI-IOT/ros2_nanollm) - ROS 2 wrapper for streaming VLMs with quantization.
 - [ROS2-NanoOWL](https://github.com/NVIDIA-AI-IOT/ROS2-NanoOWL) - ROS 2 wrapper for OWL-ViT open vocabulary detection with TensorRT.
 - [visualnav-transformer-ros2](https://github.com/RobotecAI/visualnav-transformer-ros2) - ROS 2 port of [visualnav-transformer](https://github.com/robodhruv/visualnav-transformer) stack (GNM, ViNT and NoMaD)
@@ -57,13 +56,10 @@ Demonstrates interesting usage foundation models in robots.
 - [rai-rosbot-xl-demo](https://github.com/RobotecAI/rai-rosbot-xl-demo) - Use the RAI framework to control a ROSbot XL mobile robot.
 - [rai-agriculture-demo](https://github.com/RobotecAI/rai-agriculture-demo) - Use the RAI framework to supervise autonomous tractors.
 - [remembr](https://github.com/NVIDIA-AI-IOT/remembr) - Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robots
-- [RoboPoint](https://robo-point.github.io/) - A Vision-Language Model for Spatial Affordance Prediction for Robotics
 - [Yell At Your Robot](https://yay-robot.github.io/) - Improving On-the-Fly from Language Corrections
-- [OpenVLA](https://openvla.github.io/) - SigLIP/DINOv2 + Llama-7B trained on OpenX-Embodiment
-    * There is a follow-on fine-tuning study and demo [here](https://www.jetson-ai-lab.com/openvla.html) from the Jetson team
-- [Physical Intelligence π0](https://www.physicalintelligence.company/blog/pi0) - A Vision-Language-Action Flow Model for General Robot Control 
-    * Initial efforts are ongoing in the community to implement and train [pi-zero-pytorch](https://github.com/lucidrains/pi-zero-pytorch) and its precursor [Transfusion](https://github.com/lucidrains/transfusion-pytorch) 
-    * Contact [`@dusty-nv`](https://github.com/dusty-nv) if you are interested in participating or contributing data (see [`pi-zero-pytorch/issues/2`](https://github.com/lucidrains/pi-zero-pytorch/issues/2)])
+- [Physical Intelligence π0](https://www.physicalintelligence.company/blog/pi0) - A Vision-Language-Action Flow Model for General Robot Control
+  - Initial efforts are ongoing in the community to implement and train [pi-zero-pytorch](https://github.com/lucidrains/pi-zero-pytorch) and its precursor [Transfusion](https://github.com/lucidrains/transfusion-pytorch)
+  - Contact [`@dusty-nv`](https://github.com/dusty-nv) if you are interested in participating or contributing data (see [`pi-zero-pytorch/issues/2`](https://github.com/lucidrains/pi-zero-pytorch/issues/2)])
 
 # Awesome Foundation Models For Robotics
 
@@ -74,8 +70,7 @@ Awesome lists of foundation models that can be used in robotics.
 - [Awesome Robotics Foundation Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - A survey of foundation models in robotics.
 - [Awesome Foundation and Multimodal Models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - Curated list of top foundation and multimodal models
 
-Adjacent communities to connect with:
+# Adjacent communities to connect with:
 
 - [LeRobot](https://github.com/huggingface/lerobot)
 - [Jetson AI Lab](https://www.jetson-ai-lab.com/)
-
