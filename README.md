@@ -60,6 +60,7 @@ Demonstrates interesting usage foundation models in robots.
 - [Physical Intelligence π0](https://www.physicalintelligence.company/blog/pi0) - A Vision-Language-Action Flow Model for General Robot Control
   - Initial efforts are ongoing in the community to implement and train [pi-zero-pytorch](https://github.com/lucidrains/pi-zero-pytorch) and its precursor [Transfusion](https://github.com/lucidrains/transfusion-pytorch)
   - Contact [`@dusty-nv`](https://github.com/dusty-nv) if you are interested in participating or contributing data (see [`pi-zero-pytorch/issues/2`](https://github.com/lucidrains/pi-zero-pytorch/issues/2)])
+- [OpenNav: Efficient Open Vocabulary 3D Object Detection for Smart Wheelchair Navigation](https://github.com/EasyWalk-PRIN/OpenNav?tab=readme-ov-file)
 
 # Awesome Foundation Models For Robotics
 
